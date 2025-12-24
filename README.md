@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋, I'm a mounir 🫖
 
-<!--
-**haddoumounir/haddoumounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+People on social media know me as yavi. My real full name is Mounir Haddou.
+Here, you can find some details about me and my work.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am:
+- 🇲🇦 Made In Morocco
+- 👨🏽‍💻 Work at @UM6P
+- 🎖️ [TAQATHON](https://www.linkedin.com/posts/mounir-haddou_taqathon-um6p-taqathon-activity-7374206400115273728-wPvk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwcwSABSTsmB51qnxdXH14FT__VTKnicb4)
+- 🤓 Geek
+- 💪 Gym
+- 🍲 Home Cook
